@@ -8,6 +8,8 @@
 + HourlyTipsExerxise
 + ExpiringStateExercise
 
+Задания были выполнены на *java*
+
 # ExerciseBase
 Настройка путей к файлам в исходном классе [ExerciseBase](https://github.com/ververica/flink-training-exercises/blob/master/src/main/java/com/ververica/flinktraining/exercises/datastream_java/utils/ExerciseBase.java)
 
